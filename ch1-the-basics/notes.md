@@ -159,3 +159,9 @@ Non-digital constraints: const to manufacture, physical dimensions, publisher, t
 * Mess with the play order
 * Kill a rule
 * Use the "Rule of Two"
+
+## Resources
+
+* [Types of Game Designers](https://bbrathwaite.wordpress.com/2007/11/20/types-of-game-designers/) (note: Brenda Brathwaite is one of the authors)
+* [IGDA Curriculum Framework](http://www.cccewd.net/intranet/files/resources/IGDA_Game_Curriculum_Framework_2008.pdf) (I found a different link since theirs didn't work)
+* [MDA: A Formal Approach to Game Design and Game Research](http://www.cs.northwestern.edu/~hunicke/MDA.pdf) (again, my link) -- introduces "Mechanics, Dynamics, and Aesthetics"
