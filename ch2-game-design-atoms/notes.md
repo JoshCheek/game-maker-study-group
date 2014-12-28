@@ -140,3 +140,8 @@ A nice example of the atoms and their implications (page 33).
 ### Challenge 3 -- When I Find You...
 ### Challenge 4 -- Pick It Up
 ### Iron designer challenge 5 -- War Without Frontiers
+
+## Resources
+
+* [I Have No Words, and I Must Design](http://costik.com/nowords.html)
+* [Formal Abstract Deisgn Tools](http://www.gamasutra.com/view/feature/3357/formal_abstract_design_tools.php)
